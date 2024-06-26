@@ -22,7 +22,7 @@
 
     相位基方法
 
-## 三、github
+## 三、github[https://github.com/ZhengPeng7/motion_magnification_learning-based]
 
 ### 3-1 模型权重文件
 - `github\checkpoint\checkpoint.pth`
